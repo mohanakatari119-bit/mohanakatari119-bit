@@ -99,7 +99,7 @@ Machine Learning               █████░░░░░░░░░░░ 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohanakatari119-bit&bg_color=ffffff&color=00B4D8&line=00B4D8&point=0077B6&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohanakatari119-bit&bg_color=transparent&color=00B4D8&line=00B4D8&point=0077B6&area=true&hide_border=true" width="100%"/>
 
 </div>
 
